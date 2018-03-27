@@ -1,0 +1,27 @@
+{
+  "name": "hexo-generator-portfolio",
+  "version": "1.0.0",
+  "description": "a hexo generator plugin to generate portfolio with json",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/qinyuanpei/hexo-generator-portfolio.git"
+  },
+  "keywords": [
+    "hexo��",
+    "generator",
+    "portfolio"
+  ],
+  "author": "PayneQin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qinyuanpei/hexo-generator-portfolio/issues"
+  },
+  "homepage": "https://github.com/qinyuanpei/hexo-generator-portfolio#readme"
+}
