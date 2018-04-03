@@ -1,55 +1,27 @@
 {
-  "_from": "hexo-generator-portfolio@^1.0.0",
-  "_id": "hexo-generator-portfolio@1.0.1",
-  "_inBundle": false,
-  "_integrity": "sha512-qjGpCeYhBKNxBIUEeGAkpLu1KrH2ud7cMwJResYgGNveivMZKhOYi8H0HG2ZiGbBDAESLc6PphbSzD3tG0QXmg==",
-  "_location": "/hexo-generator-portfolio",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "hexo-generator-portfolio@^1.0.0",
-    "name": "hexo-generator-portfolio",
-    "escapedName": "hexo-generator-portfolio",
-    "rawSpec": "^1.0.0",
-    "saveSpec": null,
-    "fetchSpec": "^1.0.0"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/hexo-generator-portfolio/-/hexo-generator-portfolio-1.0.1.tgz",
-  "_shasum": "3e1278b148eff0aaaa6e88ee07155fd4d7ce5399",
-  "_spec": "hexo-generator-portfolio@^1.0.0",
-  "_where": "E:\\Projects\\qinyuanpei.github.io",
-  "author": {
-    "name": "PayneQin"
-  },
-  "bugs": {
-    "url": "https://github.com/qinyuanpei/hexo-generator-portfolio/issues"
-  },
-  "bundleDependencies": false,
-  "deprecated": false,
+  "name": "hexo-generator-portfolio",
+  "version": "1.0.2",
   "description": "a hexo generator plugin to generate portfolio with json",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
-  "homepage": "https://github.com/qinyuanpei/hexo-generator-portfolio#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/qinyuanpei/hexo-generator-portfolio.git"
+  },
   "keywords": [
     "hexo",
     "generator",
     "portfolio"
   ],
+  "author": "PayneQin",
   "license": "MIT",
-  "main": "index.js",
-  "name": "hexo-generator-portfolio",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/qinyuanpei/hexo-generator-portfolio.git"
+  "bugs": {
+    "url": "https://github.com/qinyuanpei/hexo-generator-portfolio/issues"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "version": "1.0.1"
+  "homepage": "https://github.com/qinyuanpei/hexo-generator-portfolio#readme"
 }
